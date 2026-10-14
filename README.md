@@ -105,12 +105,6 @@ src/
     └── sources/               # news, wikipedia, github, appstore, community
 ```
 
-## Known limitations
-
-- Companies with common-word names (for example "Linear") can pick up unrelated news, Hacker News and Reddit results.
-- Reddit blocks anonymous JSON search, so vote counts need the optional Reddit credentials, and it may rate-limit heavy use.
-- AI summaries can be wrong. Check the source links before acting on them.
-- Pricing tiers and features marked "Soon" on the marketing pages are placeholders.
 
 ## License
 
